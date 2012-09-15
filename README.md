@@ -1,6 +1,6 @@
 # Kuiter
 
-Kuiter is a very simple GUI app I built to shutdown and log out quickly from XMonad.
+Kuiter is a very simple GUI app I made to shutdown and log out quickly from XMonad.
 
 To build with dsss:
 
